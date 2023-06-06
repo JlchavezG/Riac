@@ -1,6 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T01:53:00.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.7" etag="w2JKrsbivmG5UPdEtEDc" type="github">
-  <diagram name="Página-1" id="o8KK8isC8CfM6uw1GsMw">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-06-06T01:54:55.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_Hk45FEwBEqSuPtt_PuF" version="21.3.7" type="github" pages="5">
+  <diagram name="Casos_de_Uso" id="o8KK8isC8CfM6uw1GsMw">
+    <mxGraphModel dx="1432" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WImHZMomHQM6ejeGsjSj" name="Casos_de_uso_2_nivel">
+    <mxGraphModel dx="1432" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BMfGqe2s0Zg_1b1JrAg-" name="Modelo_ER">
+    <mxGraphModel dx="1432" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="srzED7KmiX7JuP6qWclq" name="ModeloRelacional">
+    <mxGraphModel dx="1432" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="talSCfo10l-e3u-sPMCj" name="Despliege">
+    <mxGraphModel dx="1432" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
